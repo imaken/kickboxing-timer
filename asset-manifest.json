@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kickboxing-timer/static/css/main.e6c13ad2.css",
-    "main.js": "/kickboxing-timer/static/js/main.951d89b6.js",
+    "main.js": "/kickboxing-timer/static/js/main.13963e60.js",
     "static/js/453.71e65e4f.chunk.js": "/kickboxing-timer/static/js/453.71e65e4f.chunk.js",
     "index.html": "/kickboxing-timer/index.html",
     "main.e6c13ad2.css.map": "/kickboxing-timer/static/css/main.e6c13ad2.css.map",
-    "main.951d89b6.js.map": "/kickboxing-timer/static/js/main.951d89b6.js.map",
+    "main.13963e60.js.map": "/kickboxing-timer/static/js/main.13963e60.js.map",
     "453.71e65e4f.chunk.js.map": "/kickboxing-timer/static/js/453.71e65e4f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.951d89b6.js"
+    "static/js/main.13963e60.js"
   ]
 }
